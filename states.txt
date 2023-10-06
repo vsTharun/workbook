@@ -1,0 +1,8 @@
+<li><a href="http://www.alabama.gov"><img src="state-flags/alabama.png">Alabama</a>
+<li><a href="http://www.alaska.gov"><img src="state-flags/alaska.png">Alaska</a>
+<li><a href="http://www.arizona.gov"><img src="state-flags/arizona.png">Arizona</a>
+<li><a href="http://www.arkansas.gov"><img src="state-flags/arkansas.png">Arkansas</a>
+<li><a href="http://www.california.gov"><img src="state-flags/california.png">California</a>
+<li><a href="http://www.colorado.gov"><img src="state-flags/colorado.png">Colorado</a>
+<li><a href="http://www.connecticut.gov"><img src="state-flags/connecticut.png">Connecticut</a>
+<li><a href="http://www.delaware.gov"><img src="state-flags/delaware.png">Delaware</a>
